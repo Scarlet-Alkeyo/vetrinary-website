@@ -1,0 +1,175 @@
+#navbar{
+    display: flex;
+    gap: 10%;
+}
+#vet{
+    color: pink;
+}
+#button1{
+    color: white;
+    background-color: green;
+}
+#page1{
+    display: flex;
+    gap: 20%;
+}
+
+#page2{
+    display: flex;
+    gap: 30%;
+}
+#page3{
+    display: flex;
+}
+#media{
+    height: 50px;
+    width: 50px;
+}
+#media1{
+    height: 50px;
+    width: 50px 
+}
+#page4{
+    display: flex;
+
+}
+
+
+        
+    
+
+
+#page5{
+    display: flex;
+    gap: 30%;
+}
+#page6{
+    display: flex;
+    gap: 40%;
+}
+#page7{
+    display: flex;
+    gap: 10%;
+}
+#media2{
+    height: 30%;
+    
+
+}
+#page8{
+    display: flex;
+}   #page5{
+    display: flex;
+    flex-wrap: wrap;
+}
+#button4{
+    color: white;
+    background-color: green;
+}
+#page9{
+ text-align: center;
+}
+#footer{
+    display: flex;
+    gap: 15%;
+}
+#button2{
+    color: white;
+    background-color: green;
+}
+
+
+@media screen and (min-width: 375px) and(max-width:768px){
+
+    #navbar{
+        display: flex;
+        flex-wrap: wrap;
+    } 
+    #page1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #footer{
+        display: flex;
+        flex-wrap: wrap;
+    
+    }
+    #page2{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #page3{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #page4{
+        display: flex;
+        flex-wrap: wrap;
+    
+    }
+    #page5{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #page6{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #page7{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #page8{
+        display: flex;
+        flex-wrap: wrap;
+    } 
+}
+#navbar{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+#page1{
+    display: flex;
+    flex-wrap: wrap;
+}
+#page2{
+    display: flex;
+    flex-wrap: wrap;
+}
+#footer{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#page2{
+    display: flex;
+    flex-wrap: wrap;
+}
+#page3{
+    display: flex;
+    flex-wrap: wrap;
+}
+#page4{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#page5{
+    display: flex;
+    flex-wrap: wrap;
+}
+#page6{
+    display: flex;
+    flex-wrap: wrap;
+}
+#page7{
+    display: flex;
+    flex-wrap: wrap;
+}
+#page8{
+    display: flex;
+    flex-wrap: wrap;
+} 
+
